@@ -4,9 +4,16 @@
 A dictionary for discovering new anime which retrieves information from a fake data source based on MVVM pattern.
 
 ## Screenshots 📱 
-Onboarding | Login | Home | Details | History | Cart | Profile
+
+### Light Mode
+Home | HomeExpanded | SearchScreen1 | SearchScreen2 | Starred | DetailScreen | About
 --- | --- | --- | --- |--- |--- |--- 
-![](https://github.com/gautam84/Foodike/blob/master/screenshots/onboarding.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/login.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/home.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/details.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/history.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/cart.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/profile.jpeg) 
+![](https://github.com/gautam84/Foodike/blob/master/screenshots/lightMode/HomeLight.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/lightMode/HomeExpandedLight.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/lightMode/SearchScreen1Light.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/lightMode/SearchScreen2Light.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/lightMode/StarredScreenLight.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/lightMode/DetailScreenLight.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/lightMode/AboutLight.jpeg) 
+
+### Dark Mode
+Home | HomeExpanded | SearchScreen1 | SearchScreen2 | Starred | DetailScreen | About
+--- | --- | --- | --- |--- |--- |--- 
+![](https://github.com/gautam84/Foodike/blob/master/screenshots/darkMode/HomeDark.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/darkMode/HomeExpandedDark.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/darkMode/SearchScreen1Dark.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/darkMode/SearchScreen2Dark.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/darkMode/StarredScreenDark.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/darkMode/DetailScreenDark.jpeg) | ![](https://github.com/gautam84/Foodike/blob/master/screenshots/darkMode/AboutDark.jpeg) 
 
 
 ## Build With 🛠
