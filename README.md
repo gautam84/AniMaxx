@@ -5,15 +5,50 @@ A dictionary for discovering new anime which retrieves information from a fake d
 
 ## Screenshots 📱 
 
+
 ### Light Mode
-Home | HomeExpanded | SearchScreen1 | SearchScreen2 | Starred | DetailScreen | About
---- | --- | --- | --- |--- |--- |--- 
-![](https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/HomeLight.jpeg) | ![](https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/HomeExpandedLight.jpeg) | ![](https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/SearchScreen1Light.jpeg) | ![](https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/SearchScreen2Light.jpeg) | ![](https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/StarredScreenLight.jpeg) | ![](https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/DetailScreenLight.jpeg) | ![](https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/AboutScreenLight.jpeg) 
+<table style="table-layout: fixed;">
+  <tr>
+    <th>Home</th>
+    <th>HomeExpanded</th>
+    <th>SearchScreen1</th>
+    <th>SearchScreen2</th>
+    <th>Starred</th>
+    <th>DetailScreen</th>
+    <th>About</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/HomeLight.jpeg" alt="Home" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/HomeExpandedLight.jpeg" alt="HomeExpanded" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/SearchScreen1Light.jpeg" alt="SearchScreen1" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/SearchScreen2Light.jpeg" alt="SearchScreen2" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/StarredScreenLight.jpeg" alt="Starred" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/DetailScreenLight.jpeg" alt="DetailScreen" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/lightMode/AboutScreenLight.jpeg" alt="About" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
+  </tr>
+</table>
 
 ### Dark Mode
-Home | HomeExpanded | SearchScreen1 | SearchScreen2 | Starred | DetailScreen | About
---- | --- | --- | --- |--- |--- |--- 
-![](https://github.com/gautam84/AniMaxx/blob/master/screenshots/darkMode/HomeDark.jpeg) | ![](https://github.com/gautam84/AniMaxx/blob/master/screenshots/darkMode/HomeExpandedDark.jpeg) | ![](https://github.com/gautam84/AniMaxx/blob/master/screenshots/darkMode/SearchScreen1Dark.jpeg) | ![](https://github.com/gautam84/AniMaxx/blob/master/screenshots/darkMode/SearchScreen2Dark.jpeg) | ![](https://github.com/gautam84/AniMaxx/blob/master/screenshots/darkMode/StarredScreenDark.jpeg) | ![](https://github.com/gautam84/AniMaxx/blob/master/screenshots/darkMode/DetailScreenDark.jpeg) | ![](https://github.com/gautam84/AniMaxx/blob/master/screenshots/darkMode/AboutScreenDark.jpeg) 
+<table style="table-layout: fixed;">
+  <tr>
+    <th>Home</th>
+    <th>HomeExpanded</th>
+    <th>SearchScreen1</th>
+    <th>SearchScreen2</th>
+    <th>Starred</th>
+    <th>DetailScreen</th>
+    <th>About</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/darkMode/HomeDark.jpeg" alt="Home" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/darkMode/HomeExpandedDark.jpeg" alt="HomeExpanded" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/darkMode/SearchScreen1Dark.jpeg" alt="SearchScreen1" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/darkMode/SearchScreen2Dark.jpeg" alt="SearchScreen2" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/darkMode/StarredScreenDark.jpeg" alt="Starred" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/darkMode/DetailScreenDark.jpeg" alt="DetailScreen" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
+    <td><img src="https://github.com/gautam84/AniMaxx/blob/master/screenshots/darkMode/AboutScreenDark.jpeg" alt="About" style="height: 270px; width: auto; display: block; margin: 0 auto;"></td>
+  </tr>
+</table>
 
 
 ## Build With 🛠
