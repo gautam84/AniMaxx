@@ -1,5 +1,6 @@
 package com.example.animaxx.presentation.search
 
+import android.widget.Toast
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -35,6 +36,7 @@ import androidx.compose.ui.draw.alpha
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.text.style.TextOverflow
@@ -52,6 +54,7 @@ fun SearchScreen(
     viewModel: SearchViewModel = hiltViewModel()
 ) {
     val state = viewModel.searchScreenState.value
+    val context = LocalContext.current
     LazyColumn(
         modifier = Modifier
             .fillMaxSize()
@@ -86,7 +89,9 @@ fun SearchScreen(
                 ) { viewModel.onEvent(SearchEvent.ChangeText(it)) }
 
                 Box(modifier = Modifier
-                    .clickable { }
+                    .clickable {
+                        Toast.makeText(context,"Feature coming soon..", Toast.LENGTH_SHORT).show()
+                    }
                     .border(width = 1.dp, Color.Black, RoundedCornerShape(12.dp))) {
                     Icon(
                         imageVector = Icons.Default.Sort,
